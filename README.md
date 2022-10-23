@@ -1,1 +1,4 @@
-# spark-streaming-scala-sbt
+# spark-streaming-scala-
+
+@Credit
+Daniel Ciocîrlan 
